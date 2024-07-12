@@ -1,2 +1,2 @@
-# Scraping-Uisng-Beautifulsoup
+# Scraping-Using-Beautifulsoup
 Scraping Quote Data using Beautifulsoup
